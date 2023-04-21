@@ -1,0 +1,47 @@
+.container {
+    margin-top: 50px;
+  }
+  
+  
+    h1 {
+        animation: mover 1s infinite;
+        text-align: center;
+        color:white;
+      }
+      
+      @keyframes mover {
+        0% {
+          transform: translateX(0);
+        }
+        50% {
+          transform: translateX(50px);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  #resultado {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  body{
+    background-color: #656668;
+  }
+  label{
+    background-color: #2a9d8f;
+  }
+  #num1, #num2{
+    background-color: #faedcd;
+  }
+  #operacion{
+    background-color: #219ebc;
+  }
+  #cont{
+    background-color: black;
+  }
