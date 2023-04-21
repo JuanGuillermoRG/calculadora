@@ -17,9 +17,12 @@ function calcular() {
       case "division":
         resultado = num1 / num2;
         break;
-        case "modulo":
+      case "modulo":
         resultado = num1 % num2;
         break;
+        case "potencia":
+          resultado = num1 ** num2;
+          break;
       default:
         resultado = "Operación inválida";
     }

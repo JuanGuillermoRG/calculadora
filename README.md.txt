@@ -1,0 +1,16 @@
+Para crear la calculadora utilizamos los siguientes pasos:
+ingresar a visual studio code
+crear código para implementación de calculadora funcional, suma, resta, división, multiplicación, modulo y potencia
+implementar boostrap
+crear pestaña para formato con nombre calculadora.css
+crear pestaña con nombre calculadora.js 
+crear repositorio en github
+designar nombre
+en consola git bash vincular a la nube repositorio local
+
+Para utilizar la calculadora debemos:
+ingresar el primer dígito en la casilla número 1
+ingresar número en la casilla número 2
+en tercera casilla debe selecionar tipo de función requerida, suma, resta, multiplicación, división, modulo y potencia 
+luego presionar el botón calcular
+el resultado se mostrará al final de la pantalla.
